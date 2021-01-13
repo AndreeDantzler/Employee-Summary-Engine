@@ -14,10 +14,6 @@ I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 ```
 
-## Video
-
-[Watch the video](https://drive.google.com/file/d/1yQ2DKfYcoMtGxJILhHc0yO1MFnT0AgEt/view?usp=sharing)
-
 ## Repo URL
 
   [Repo URL](https://github.com/AndreeDantzler/GoodREADMeGenerator)
